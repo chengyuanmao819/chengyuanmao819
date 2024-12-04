@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **maochengyuan16295@gmail.com**
 
-- 📄 Know about my experiences [Resume- Chengyuan Mao](https://drive.google.com/file/d/1j6EFLi-CIWyapHqKgWJsjTu-K13ofq-t/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chengyuan-mao-83aa58198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chengyuan-mao-83aa58198" height="30" width="40" /></a>
