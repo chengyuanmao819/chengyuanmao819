@@ -2,6 +2,7 @@ Hi 👋 My name is Chengyuan Mao
 ======================================================================================================================================
 
 Key Account Quality Control Specialist @SwiftX
+ECON & Data Science @UCSD
 ----------------------------------------------
 
 * 🌍  I'm based in Ontario, CA
