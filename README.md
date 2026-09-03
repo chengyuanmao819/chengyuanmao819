@@ -1,7 +1,7 @@
 Hi 👋 My name is Chengyuan Mao
 ======================================================================================================================================
 
-Key Account Quality Control Specialist @ [SwiftX](https://www.linkedin.com/company/swiftx-express/posts/?feedView=all)
+Quality Control Specialist @ [SpeedX](https://speedx.io/)
 
 ECON & Data Science @ [UC San Diego](https://www.ucsd.edu/)
 
