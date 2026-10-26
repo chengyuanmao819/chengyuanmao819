@@ -7,7 +7,7 @@ ECON & Data Science @ [UC San Diego](https://www.ucsd.edu/)
 
 ----------------------------------------------
 
-* 🌍  I'm based in Ontario, CA
+* 🌍  I'm based in Montebello, CA
 * ✉️  You can contact me at [maochengyuan16295@gmail.com](mailto:maochengyuan16295@gmail.com)
 
 <p align="left">
